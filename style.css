@@ -1,0 +1,75 @@
+body{
+    background-color: darkslategray;
+    color: white;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#header{
+    background-color: darkslategray;
+    height: 125px;
+    padding: 10px;
+}
+.desk{
+    text-align: center;
+}
+.menu li{
+    display: inline;
+    margin: 190px;
+}
+.menu a {
+    margin-left: 140px;
+}
+.menu a:hover{
+    font-weight: bold;
+    color: black;
+}
+/* .gambar img{
+    
+} */
+
+
+.gambar {
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}        
+
+.gambar img{
+    width: 350px;
+    height: 350px;
+}
+
+.koleksi{
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.koleksi img{
+    width: 250px;
+    height: 200%;
+    margin: auto;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+.promo {
+    text-align: center;
+}
+
+.promo li{
+    text-align: center;
+}
+
+.isi::first-letter{
+    color: white;
+    font-size: 40px;
+     }
+
+
